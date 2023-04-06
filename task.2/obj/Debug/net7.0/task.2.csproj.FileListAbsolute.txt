@@ -1,0 +1,15 @@
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.csproj.AssemblyReference.cache
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.AssemblyInfoInputs.cache
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.AssemblyInfo.cs
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.csproj.CoreCompileInputs.cache
+D:\GEEKBRANS\дз8\task.2\bin\Debug\net7.0\task.2.exe
+D:\GEEKBRANS\дз8\task.2\bin\Debug\net7.0\task.2.deps.json
+D:\GEEKBRANS\дз8\task.2\bin\Debug\net7.0\task.2.runtimeconfig.json
+D:\GEEKBRANS\дз8\task.2\bin\Debug\net7.0\task.2.dll
+D:\GEEKBRANS\дз8\task.2\bin\Debug\net7.0\task.2.pdb
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.dll
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\refint\task.2.dll
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.pdb
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\task.2.genruntimeconfig.cache
+D:\GEEKBRANS\дз8\task.2\obj\Debug\net7.0\ref\task.2.dll
